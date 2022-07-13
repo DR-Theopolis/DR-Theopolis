@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @DR-Theopolis
-- 👀 I’m interested in ...
+- 👀 I’m interested in learning to code
 - 🌱 I’m currently learning Javascript
-- 📫 How to reach me ...
 
 <!---
 DR-Theopolis/DR-Theopolis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
